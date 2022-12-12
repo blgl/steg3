@@ -1,3 +1,12 @@
+Breaking news!
+==============
+
+Changes that prohibit the particular type of broken text values
+discussed here have been committed to the SQLite source repository and
+will likely be released no later than SQLite version 3.41.
+
+In short: forget this, it's obsolete already.
+
 Steganography with SQLite 3
 ===========================
 
